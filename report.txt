@@ -1,0 +1,7 @@
+For this project, I decided to take a look at an ever-growing social game platform on the rise, this being known as Rec Room. I wished to look into the nature of Rec Room's average player base, & see how much they create, how many rooms ( the areas in which you can play games in ) they have created, & most importantly, how popular are these creators based on subscriber count.
+
+This data was all grabbed by hand by myself, purusing through player's profiles & making use of readily available data on hand, this being the 3 afforementioned points I wished to tackle. Checking the .csv file, you will also notice I have marked specific genres. The original intention was to see what players play the most & what they want the most on the platform, & see based off the data who are average players, & who are creators.
+
+The biggest setback of course, is that some of the data is unapplicable due to it not stricly being numerical, thus, I couldn't make use of such. Regardless, with the data I do have, I am the utmost proud of what I have found with even just a small datapool, & how much it all varies between players & creators alike!
+
+When you look at the graphs, the numbers on the Y axis represent the players, & on the y axis is the data that is tied to said players, those being the amount of Inventions they have created, the Rooms they have created, & how many subscribers they have.
